@@ -1,0 +1,57 @@
+{
+  "brilliancePoint": 22,
+  "numRow": 8,
+  "numCol": 8,
+  "letters": "YESOLL",
+  "words": [
+    {
+      "word": "YES",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 2,
+      "dir": 1
+    },
+    {
+      "word": "LOSE",
+      "isBonusWord": false,
+      "startRowIndex": 6,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "SOLE",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 0,
+      "dir": 1
+    },
+    {
+      "word": "YELL",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 2,
+      "dir": 0
+    },
+    {
+      "word": "SOLELY",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 5,
+      "dir": 1
+    },
+    {
+      "word": "SLY",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 5,
+      "dir": 0
+    },
+    {
+      "word": "SELL",
+      "isBonusWord": false,
+      "startRowIndex": 2,
+      "startColIndex": 3,
+      "dir": 0
+    }
+  ]
+}

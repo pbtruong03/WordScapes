@@ -1,0 +1,26 @@
+{
+  "brilliancePoint": 7,
+  "numRow": 3,
+  "numCol": 4,
+  "letters": "WON",
+  "words": [
+    {
+      "word": "NOW",
+      "startRowIndex": 0,
+      "startColIndex": 2,
+      "dir": 1
+    },
+    {
+      "word": "OWN",
+      "startRowIndex": 2,
+      "startColIndex": 1,
+      "dir": 0
+    },
+    {
+      "word": "WON",
+      "startRowIndex": 0,
+      "startColIndex": 0,
+      "dir": 0
+    }
+  ]
+}

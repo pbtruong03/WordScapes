@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae08ca2cfd85fd94a95009e47c03eddd, type: 3}
+  m_Name: P_AUTUMN
+  m_EditorClassIdentifier: 
+  name: AUTUMN
+  listChild:
+  - {fileID: 11400000, guid: eb314ac09acd12a4d9fbb35ce732aeec, type: 2}
+  - {fileID: 11400000, guid: 67fabb72f14aa18419a1b18961697758, type: 2}
+  - {fileID: 11400000, guid: c933c3cfec1f564478bbd148fcdf9699, type: 2}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0}

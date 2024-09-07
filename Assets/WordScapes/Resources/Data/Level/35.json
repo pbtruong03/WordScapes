@@ -1,0 +1,71 @@
+{
+  "brilliancePoint": 31,
+  "numRow": 8,
+  "numCol": 9,
+  "letters": "LHBCAE",
+  "words": [
+    {
+      "word": "LAB",
+      "isBonusWord": false,
+      "startRowIndex": 5,
+      "startColIndex": 6,
+      "dir": 0
+    },
+    {
+      "word": "BLAH",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 6,
+      "dir": 1
+    },
+    {
+      "word": "CAB",
+      "isBonusWord": false,
+      "startRowIndex": 3,
+      "startColIndex": 8,
+      "dir": 1
+    },
+    {
+      "word": "EACH",
+      "isBonusWord": false,
+      "startRowIndex": 7,
+      "startColIndex": 3,
+      "dir": 0
+    },
+    {
+      "word": "LACE",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 3,
+      "dir": 1
+    },
+    {
+      "word": "ABLE",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 1,
+      "dir": 0
+    },
+    {
+      "word": "BEACH",
+      "isBonusWord": false,
+      "startRowIndex": 2,
+      "startColIndex": 1,
+      "dir": 1
+    },
+    {
+      "word": "BLEACH",
+      "isBonusWord": false,
+      "startRowIndex": 2,
+      "startColIndex": 1,
+      "dir": 0
+    },
+    {
+      "word": "CABLE",
+      "isBonusWord": true,
+      "startRowIndex": 0,
+      "startColIndex": 0,
+      "dir": 0
+    }
+  ]
+}

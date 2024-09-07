@@ -1,0 +1,92 @@
+{
+  "brilliancePoint": 42,
+  "numRow": 10,
+  "numCol": 11,
+  "letters": "RLESMO",
+  "words": [
+    {
+      "word": "SOME",
+      "isBonusWord": false,
+      "startRowIndex": 6,
+      "startColIndex": 6,
+      "dir": 0
+    },
+    {
+      "word": "ROLES",
+      "isBonusWord": false,
+      "startRowIndex": 3,
+      "startColIndex": 9,
+      "dir": 1
+    },
+    {
+      "word": "LOSE",
+      "isBonusWord": false,
+      "startRowIndex": 5,
+      "startColIndex": 7,
+      "dir": 1
+    },
+    {
+      "word": "LOSER",
+      "isBonusWord": false,
+      "startRowIndex": 3,
+      "startColIndex": 5,
+      "dir": 0
+    },
+    {
+      "word": "MOLE",
+      "isBonusWord": false,
+      "startRowIndex": 1,
+      "startColIndex": 5,
+      "dir": 1
+    },
+    {
+      "word": "ROSE",
+      "isBonusWord": false,
+      "startRowIndex": 8,
+      "startColIndex": 4,
+      "dir": 0
+    },
+    {
+      "word": "MORE",
+      "isBonusWord": false,
+      "startRowIndex": 6,
+      "startColIndex": 4,
+      "dir": 1
+    },
+    {
+      "word": "MORSEL",
+      "isBonusWord": false,
+      "startRowIndex": 1,
+      "startColIndex": 5,
+      "dir": 0
+    },
+    {
+      "word": "ROME",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 2,
+      "dir": 0
+    },
+    {
+      "word": "ROLE",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 2,
+      "dir": 1
+    },
+    {
+      "word": "SOLE",
+      "isBonusWord": false,
+      "startRowIndex": 9,
+      "startColIndex": 1,
+      "dir": 0
+    },
+    {
+      "word": "SORE",
+      "isBonusWord": true,
+      "startRowIndex": 0,
+      "startColIndex": 0,
+      "dir": 0
+    }
+  ]
+}

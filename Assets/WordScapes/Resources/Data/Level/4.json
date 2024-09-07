@@ -1,0 +1,26 @@
+{
+  "brilliancePoint": 7,
+  "numRow": 4,
+  "numCol": 3,
+  "letters": "TAP",
+  "words": [
+    {
+      "word": "PAT",
+      "startRowIndex": 1,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "APT",
+      "startRowIndex": 0,
+      "startColIndex": 0,
+      "dir": 1
+    },
+    {
+      "word": "TAP",
+      "startRowIndex": 1,
+      "startColIndex": 2,
+      "dir": 1
+    }
+  ]
+}

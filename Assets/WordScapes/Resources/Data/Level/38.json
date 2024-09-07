@@ -1,0 +1,85 @@
+{
+  "brilliancePoint": 38,
+  "numRow": 8,
+  "numCol": 12,
+  "letters": "TUKCSR",
+  "words": [
+    {
+      "word": "CRUST",
+      "isBonusWord": false,
+      "startRowIndex": 2,
+      "startColIndex": 3,
+      "dir": 0
+    },
+    {
+      "word": "CUTS",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 7,
+      "dir": 1
+    },
+    {
+      "word": "CUT",
+      "isBonusWord": false,
+      "startRowIndex": 2,
+      "startColIndex": 3,
+      "dir": 1
+    },
+    {
+      "word": "STUCK",
+      "isBonusWord": false,
+      "startRowIndex": 3,
+      "startColIndex": 7,
+      "dir": 0
+    },
+    {
+      "word": "TUCK",
+      "isBonusWord": false,
+      "startRowIndex": 1,
+      "startColIndex": 5,
+      "dir": 1
+    },
+    {
+      "word": "RUST",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "CURT",
+      "isBonusWord": false,
+      "startRowIndex": 2,
+      "startColIndex": 9,
+      "dir": 1
+    },
+    {
+      "word": "RUT",
+      "isBonusWord": false,
+      "startRowIndex": 5,
+      "startColIndex": 7,
+      "dir": 0
+    },
+    {
+      "word": "TURK",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 11,
+      "dir": 1
+    },
+    {
+      "word": "STRUCK",
+      "isBonusWord": false,
+      "startRowIndex": 2,
+      "startColIndex": 0,
+      "dir": 1
+    },
+    {
+      "word": "TRUCK",
+      "isBonusWord": true,
+      "startRowIndex": 7,
+      "startColIndex": 2,
+      "dir": 0
+    }
+  ]
+}

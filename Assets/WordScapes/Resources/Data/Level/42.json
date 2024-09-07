@@ -1,0 +1,99 @@
+{
+  "brilliancePoint": 35,
+  "numRow": 10,
+  "numCol": 10,
+  "letters": "FRPTOI",
+  "words": [
+    {
+      "word": "ROT",
+      "isBonusWord": false,
+      "startRowIndex": 6,
+      "startColIndex": 7,
+      "dir": 0
+    },
+    {
+      "word": "FORT",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 7,
+      "dir": 1
+    },
+    {
+      "word": "PROFIT",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 4,
+      "dir": 0
+    },
+    {
+      "word": "FIT",
+      "isBonusWord": false,
+      "startRowIndex": 7,
+      "startColIndex": 5,
+      "dir": 0
+    },
+    {
+      "word": "TRIP",
+      "isBonusWord": false,
+      "startRowIndex": 1,
+      "startColIndex": 4,
+      "dir": 1
+    },
+    {
+      "word": "PORT",
+      "isBonusWord": false,
+      "startRowIndex": 2,
+      "startColIndex": 2,
+      "dir": 0
+    },
+    {
+      "word": "TOP",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 2,
+      "dir": 1
+    },
+    {
+      "word": "RIFT",
+      "isBonusWord": false,
+      "startRowIndex": 1,
+      "startColIndex": 9,
+      "dir": 1
+    },
+    {
+      "word": "OFT",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "FOR",
+      "isBonusWord": false,
+      "startRowIndex": 1,
+      "startColIndex": 7,
+      "dir": 0
+    },
+    {
+      "word": "FIR",
+      "isBonusWord": false,
+      "startRowIndex": 7,
+      "startColIndex": 5,
+      "dir": 1
+    },
+    {
+      "word": "OPT",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 0,
+      "dir": 1
+    },
+    {
+      "word": "RIOT",
+      "isBonusWord": false,
+      "startRowIndex": 9,
+      "startColIndex": 5,
+      "dir": 0
+    }
+  ]
+}

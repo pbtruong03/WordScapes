@@ -1,0 +1,32 @@
+{
+  "brilliancePoint": 10,
+  "numRow": 5,
+  "numCol": 5,
+  "letters": "LAYD",
+  "words": [
+    {
+      "word": "LAY",
+      "startRowIndex": 2,
+      "startColIndex": 2,
+      "dir": 1
+    },
+    {
+      "word": "LAD",
+      "startRowIndex": 2,
+      "startColIndex": 2,
+      "dir": 0
+    },
+    {
+      "word": "LADY",
+      "startRowIndex": 0,
+      "startColIndex": 4,
+      "dir": 1
+    },
+    {
+      "word": "DAY",
+      "startRowIndex": 4,
+      "startColIndex": 0,
+      "dir": 0
+    }
+  ]
+}

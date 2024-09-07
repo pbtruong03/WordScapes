@@ -1,0 +1,14 @@
+Coin.png
+size:980,806
+filter:Linear,Linear
+pma:true
+scale:0.8
+cm_Light_1
+bounds:2,2,756,802
+offsets:50,53,827,941
+cm_Light_2
+bounds:760,474,108,103
+offsets:53,44,201,202
+ico_Coin_WinReward
+bounds:760,579,218,225
+offsets:1,1,220,226

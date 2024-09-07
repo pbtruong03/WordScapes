@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d870bbfb05bcdb47a76d8b93556e86d, type: 3}
+  m_Name: ShopData
+  m_EditorClassIdentifier: 
+  packs:
+  - namePack: 
+    key: 0
+    textBonus: 
+    items:
+    - type: 0
+      value: 50
+      iconType: {fileID: 21300000, guid: f0ab334e4581cbb4ca95cfa67214fd66, type: 3}
+  - namePack: 
+    key: 1
+    textBonus: 
+    items:
+    - type: 1
+      value: 2
+      iconType: {fileID: 21300000, guid: e52e6e258045ead4e9b8b0a2b36c530e, type: 3}
+  - namePack: 
+    key: 2
+    textBonus: 
+    items:
+    - type: 1
+      value: 5
+      iconType: {fileID: 21300000, guid: 71bb4c31a6f2e1745b3675dfdb70155d, type: 3}
+  - namePack: DOUBLE COIN SALE
+    key: 3
+    textBonus: +50%
+    items:
+    - type: 0
+      value: 5880
+      iconType: {fileID: 0}
+  - namePack: PIGGY BANK
+    key: 4
+    textBonus: 
+    items:
+    - type: 0
+      value: 1250
+      iconType: {fileID: 0}
+  - namePack: SUPPER BUNDLE
+    key: 5
+    textBonus: 
+    items:
+    - type: 0
+      value: 1000
+      iconType: {fileID: 0}
+    - type: 1
+      value: 2
+      iconType: {fileID: 0}
+    - type: 2
+      value: 2
+      iconType: {fileID: 0}
+    - type: 3
+      value: 2
+      iconType: {fileID: 0}
+    - type: 4
+      value: 100
+      iconType: {fileID: 0}
+  - namePack: MEGA BUNDLE
+    key: 6
+    textBonus: 
+    items:
+    - type: 0
+      value: 3000
+      iconType: {fileID: 0}
+    - type: 1
+      value: 5
+      iconType: {fileID: 0}
+    - type: 2
+      value: 5
+      iconType: {fileID: 0}
+    - type: 3
+      value: 5
+      iconType: {fileID: 0}
+    - type: 4
+      value: 300
+      iconType: {fileID: 0}
+  - namePack: BRILLIANT BUNDLE
+    key: 7
+    textBonus: 
+    items:
+    - type: 0
+      value: 8000
+      iconType: {fileID: 0}
+    - type: 1
+      value: 11
+      iconType: {fileID: 0}
+    - type: 2
+      value: 11
+      iconType: {fileID: 0}
+    - type: 3
+      value: 11
+      iconType: {fileID: 0}
+    - type: 4
+      value: 900
+      iconType: {fileID: 0}
+  - namePack: ULTIMATE BUNDLE
+    key: 8
+    textBonus: 
+    items:
+    - type: 0
+      value: 17000
+      iconType: {fileID: 0}
+    - type: 1
+      value: 25
+      iconType: {fileID: 0}
+    - type: 2
+      value: 25
+      iconType: {fileID: 0}
+    - type: 3
+      value: 25
+      iconType: {fileID: 0}
+    - type: 4
+      value: 2000
+      iconType: {fileID: 0}
+  - namePack: REMOVE ADS
+    key: 9
+    textBonus: 
+    items:
+    - type: 5
+      value: 0
+      iconType: {fileID: 0}
+  - namePack: 1k coin
+    key: 10
+    textBonus: 
+    items:
+    - type: 0
+      value: 1000
+      iconType: {fileID: 21300000, guid: f0ab334e4581cbb4ca95cfa67214fd66, type: 3}
+  - namePack: 3k coin
+    key: 11
+    textBonus: 
+    items:
+    - type: 0
+      value: 3000
+      iconType: {fileID: 21300000, guid: f0ab334e4581cbb4ca95cfa67214fd66, type: 3}
+  - namePack: 8k coin
+    key: 12
+    textBonus: 
+    items:
+    - type: 0
+      value: 8000
+      iconType: {fileID: 21300000, guid: f0ab334e4581cbb4ca95cfa67214fd66, type: 3}

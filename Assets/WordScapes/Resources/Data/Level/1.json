@@ -1,0 +1,20 @@
+{
+  "brilliancePoint": 5,
+  "numRow": 3,
+  "numCol": 3,
+  "letters": "ACT",
+  "words": [
+    {
+      "word": "ACT",
+      "startRowIndex": 0,
+      "startColIndex": 1,
+      "dir": 1
+    },
+    {
+      "word": "CAT",
+      "startRowIndex": 0,
+      "startColIndex": 0,
+      "dir": 0
+    }
+  ]
+}

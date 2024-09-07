@@ -1,0 +1,71 @@
+{
+  "brilliancePoint": 23,
+  "numRow": 8,
+  "numCol": 8,
+  "letters": "IATCCR",
+  "words": [
+    {
+      "word": "CART",
+      "isBonusWord": false,
+      "startRowIndex": 2,
+      "startColIndex": 5,
+      "dir": 1
+    },
+    {
+      "word": "ARCTIC",
+      "isBonusWord": false,
+      "startRowIndex": 5,
+      "startColIndex": 2,
+      "dir": 0
+    },
+    {
+      "word": "ACT",
+      "isBonusWord": false,
+      "startRowIndex": 2,
+      "startColIndex": 4,
+      "dir": 0
+    },
+    {
+      "word": "ART",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 6,
+      "dir": 1
+    },
+    {
+      "word": "CAT",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 2,
+      "dir": 1
+    },
+    {
+      "word": "ARC",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "CAR",
+      "isBonusWord": false,
+      "startRowIndex": 5,
+      "startColIndex": 7,
+      "dir": 1
+    },
+    {
+      "word": "TAR",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 5,
+      "dir": 0
+    },
+    {
+      "word": "RAT",
+      "isBonusWord": false,
+      "startRowIndex": 6,
+      "startColIndex": 0,
+      "dir": 0
+    }
+  ]
+}

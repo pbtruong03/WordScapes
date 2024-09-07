@@ -1,0 +1,44 @@
+{
+  "brilliancePoint": 15,
+  "numRow": 6,
+  "numCol": 6,
+  "letters": "LEEGA",
+  "words": [
+    {
+      "word": "LEG",
+      "startRowIndex": 2,
+      "startColIndex": 3,
+      "dir": 0
+    },
+    {
+      "word": "GALE",
+      "startRowIndex": 0,
+      "startColIndex": 3,
+      "dir": 1
+    },
+    {
+      "word": "LEE",
+      "startRowIndex": 3,
+      "startColIndex": 1,
+      "dir": 0
+    },
+    {
+      "word": "LAG",
+      "startRowIndex": 3,
+      "startColIndex": 1,
+      "dir": 1
+    },
+    {
+      "word": "AGE",
+      "startRowIndex": 1,
+      "startColIndex": 5,
+      "dir": 1
+    },
+    {
+      "word": "AGEE",
+      "startRowIndex": 5,
+      "startColIndex": 0,
+      "dir": 0
+    }
+  ]
+}

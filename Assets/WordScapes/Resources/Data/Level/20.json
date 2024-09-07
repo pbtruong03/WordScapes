@@ -1,0 +1,50 @@
+{
+  "brilliancePoint": 18,
+  "numRow": 7,
+  "numCol": 7,
+  "letters": "CARTT",
+  "words": [
+    {
+      "word": "CAR",
+      "startRowIndex": 0,
+      "startColIndex": 3,
+      "dir": 1
+    },
+    {
+      "word": "TRACT",
+      "startRowIndex": 2,
+      "startColIndex": 2,
+      "dir": 0
+    },
+    {
+      "word": "ART",
+      "startRowIndex": 0,
+      "startColIndex": 6,
+      "dir": 1
+    },
+    {
+      "word": "ACT",
+      "startRowIndex": 0,
+      "startColIndex": 2,
+      "dir": 0
+    },
+    {
+      "word": "TAR",
+      "startRowIndex": 2,
+      "startColIndex": 2,
+      "dir": 1
+    },
+    {
+      "word": "CART",
+      "startRowIndex": 4,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "CAT",
+      "startRowIndex": 4,
+      "startColIndex": 0,
+      "dir": 1
+    }
+  ]
+}

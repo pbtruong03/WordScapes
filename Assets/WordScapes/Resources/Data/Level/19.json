@@ -1,0 +1,44 @@
+{
+  "brilliancePoint": 19,
+  "numRow": 8,
+  "numCol": 7,
+  "letters": "CLOUD",
+  "words": [
+    {
+      "word": "OLD",
+      "startRowIndex": 4,
+      "startColIndex": 3,
+      "dir": 1
+    },
+    {
+      "word": "LOUD",
+      "startRowIndex": 6,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "COD",
+      "startRowIndex": 4,
+      "startColIndex": 2,
+      "dir": 0
+    },
+    {
+      "word": "COLD",
+      "startRowIndex": 4,
+      "startColIndex": 0,
+      "dir": 1
+    },
+    {
+      "word": "COULD",
+      "startRowIndex": 0,
+      "startColIndex": 4,
+      "dir": 1
+    },
+    {
+      "word": "CLOUD",
+      "startRowIndex": 1,
+      "startColIndex": 2,
+      "dir": 0
+    }
+  ]
+}

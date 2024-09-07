@@ -1,0 +1,80 @@
+{
+  "brilliancePoint": 51,
+  "numRow": 11,
+  "numCol": 16,
+  "letters": "TCERSGTA",
+  "words": [
+    {
+      "word": "STAGE",
+      "startRowIndex": 2,
+      "startColIndex": 7,
+      "dir": 1
+    },
+    {
+      "word": "RATES",
+      "startRowIndex": 6,
+      "startColIndex": 4,
+      "dir": 0
+    },
+    {
+      "word": "CARES",
+      "startRowIndex": 4,
+      "startColIndex": 4,
+      "dir": 1
+    },
+    {
+      "word": "SCARE",
+      "startRowIndex": 2,
+      "startColIndex": 7,
+      "dir": 0
+    },
+    {
+      "word": "STATE",
+      "startRowIndex": 6,
+      "startColIndex": 8,
+      "dir": 1
+    },
+    {
+      "word": "TRACT",
+      "startRowIndex": 1,
+      "startColIndex": 10,
+      "dir": 1
+    },
+    {
+      "word": "TARGET",
+      "startRowIndex": 5,
+      "startColIndex": 10,
+      "dir": 0
+    },
+    {
+      "word": "TARGETS",
+      "startRowIndex": 0,
+      "startColIndex": 15,
+      "dir": 1
+    },
+    {
+      "word": "GET",
+      "startRowIndex": 0,
+      "startColIndex": 13,
+      "dir": 0
+    },
+    {
+      "word": "GREAT",
+      "startRowIndex": 4,
+      "startColIndex": 12,
+      "dir": 1
+    },
+    {
+      "word": "RECAST",
+      "startRowIndex": 8,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "CATER",
+      "startRowIndex": 4,
+      "startColIndex": 0,
+      "dir": 1
+    }
+  ]
+}

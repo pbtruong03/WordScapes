@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae08ca2cfd85fd94a95009e47c03eddd, type: 3}
+  m_Name: P_FIELD
+  m_EditorClassIdentifier: 
+  name: FIELD
+  listChild:
+  - {fileID: 11400000, guid: 2a50338b0c81ce8428d9cb25bb44fc4a, type: 2}
+  - {fileID: 11400000, guid: 7eb913866f95f96448df118dd2d39e7a, type: 2}
+  - {fileID: 11400000, guid: be6c47ed2d4e9b3408b42590be8e73e8, type: 2}
+  backgroundColor: {r: 0, g: 0, b: 0, a: 0}

@@ -1,0 +1,26 @@
+{
+  "brilliancePoint": 7,
+  "numRow": 3,
+  "numCol": 3,
+  "letters": "ARE",
+  "words": [
+    {
+      "word": "ERA",
+      "startRowIndex": 0,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "EAR",
+      "startRowIndex": 0,
+      "startColIndex": 0,
+      "dir": 1
+    },
+    {
+      "word": "ARE",
+      "startRowIndex": 0,
+      "startColIndex": 2,
+      "dir": 1
+    }
+  ]
+}

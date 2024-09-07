@@ -1,0 +1,26 @@
+{
+  "brilliancePoint": 8,
+  "numRow": 3,
+  "numCol": 4,
+  "letters": "PARK",
+  "words": [
+    {
+      "word": "PARK",
+      "startRowIndex": 0,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "PAR",
+      "startRowIndex": 0,
+      "startColIndex": 0,
+      "dir": 1
+    },
+    {
+      "word": "RAP",
+      "startRowIndex": 2,
+      "startColIndex": 0,
+      "dir": 0
+    }
+  ]
+}

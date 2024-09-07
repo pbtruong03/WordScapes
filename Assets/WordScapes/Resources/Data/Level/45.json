@@ -1,0 +1,127 @@
+{
+  "brilliancePoint": 54,
+  "numRow": 11,
+  "numCol": 12,
+  "letters": "ADASGEV",
+  "words": [
+    {
+      "word": "SAVAGED",
+      "isBonusWord": false,
+      "startRowIndex": 3,
+      "startColIndex": 8,
+      "dir": 1
+    },
+    {
+      "word": "VASE",
+      "isBonusWord": false,
+      "startRowIndex": 3,
+      "startColIndex": 6,
+      "dir": 0
+    },
+    {
+      "word": "AGED",
+      "isBonusWord": false,
+      "startRowIndex": 8,
+      "startColIndex": 6,
+      "dir": 0
+    },
+    {
+      "word": "AGE",
+      "isBonusWord": false,
+      "startRowIndex": 8,
+      "startColIndex": 6,
+      "dir": 1
+    },
+    {
+      "word": "SAD",
+      "isBonusWord": false,
+      "startRowIndex": 6,
+      "startColIndex": 7,
+      "dir": 0
+    },
+    {
+      "word": "GAVE",
+      "isBonusWord": false,
+      "startRowIndex": 1,
+      "startColIndex": 6,
+      "dir": 1
+    },
+    {
+      "word": "SAVAGE",
+      "isBonusWord": false,
+      "startRowIndex": 1,
+      "startColIndex": 2,
+      "dir": 0
+    },
+    {
+      "word": "SAVED",
+      "isBonusWord": false,
+      "startRowIndex": 1,
+      "startColIndex": 2,
+      "dir": 1
+    },
+    {
+      "word": "ADS",
+      "isBonusWord": false,
+      "startRowIndex": 5,
+      "startColIndex": 1,
+      "dir": 0
+    },
+    {
+      "word": "SAVE",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 9,
+      "dir": 1
+    },
+    {
+      "word": "AGAVE",
+      "isBonusWord": false,
+      "startRowIndex": 5,
+      "startColIndex": 1,
+      "dir": 1
+    },
+    {
+      "word": "SAGE",
+      "isBonusWord": false,
+      "startRowIndex": 10,
+      "startColIndex": 3,
+      "dir": 0
+    },
+    {
+      "word": "SAGA",
+      "isBonusWord": false,
+      "startRowIndex": 7,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "SAG",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 9,
+      "dir": 0
+    },
+    {
+      "word": "GAS",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 11,
+      "dir": 1
+    },
+    {
+      "word": "SEA",
+      "isBonusWord": false,
+      "startRowIndex": 5,
+      "startColIndex": 3,
+      "dir": 1
+    },
+    {
+      "word": "VEGAS",
+      "isBonusWord": true,
+      "startRowIndex": 4,
+      "startColIndex": 11,
+      "dir": 1
+    }
+  ]
+}

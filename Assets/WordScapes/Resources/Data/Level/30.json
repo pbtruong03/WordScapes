@@ -1,0 +1,56 @@
+{
+  "brilliancePoint": 27,
+  "numRow": 7,
+  "numCol": 9,
+  "letters": "ERHONT",
+  "words": [
+    {
+      "word": "TERN",
+      "startRowIndex": 5,
+      "startColIndex": 3,
+      "dir": 0
+    },
+    {
+      "word": "HERO",
+      "startRowIndex": 3,
+      "startColIndex": 5,
+      "dir": 1
+    },
+    {
+      "word": "HORN",
+      "startRowIndex": 3,
+      "startColIndex": 5,
+      "dir": 0
+    },
+    {
+      "word": "NORTH",
+      "startRowIndex": 2,
+      "startColIndex": 3,
+      "dir": 1
+    },
+    {
+      "word": "RENT",
+      "startRowIndex": 1,
+      "startColIndex": 8,
+      "dir": 1
+    },
+    {
+      "word": "THEN",
+      "startRowIndex": 2,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "OTHER",
+      "startRowIndex": 0,
+      "startColIndex": 1,
+      "dir": 1
+    },
+    {
+      "word": "NOTE",
+      "startRowIndex": 0,
+      "startColIndex": 0,
+      "dir": 0
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "brilliancePoint": 43,
+  "numRow": 11,
+  "numCol": 11,
+  "letters": "GEILNR",
+  "words": [
+    {
+      "word": "REIN",
+      "isBonusWord": false,
+      "startRowIndex": 5,
+      "startColIndex": 4,
+      "dir": 0
+    },
+    {
+      "word": "LINE",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 6,
+      "dir": 1
+    },
+    {
+      "word": "NIGER",
+      "isBonusWord": false,
+      "startRowIndex": 1,
+      "startColIndex": 4,
+      "dir": 1
+    },
+    {
+      "word": "NILE",
+      "isBonusWord": false,
+      "startRowIndex": 1,
+      "startColIndex": 4,
+      "dir": 0
+    },
+    {
+      "word": "LINER",
+      "isBonusWord": false,
+      "startRowIndex": 7,
+      "startColIndex": 3,
+      "dir": 0
+    },
+    {
+      "word": "RING",
+      "isBonusWord": false,
+      "startRowIndex": 7,
+      "startColIndex": 7,
+      "dir": 1
+    },
+    {
+      "word": "GEL",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 7,
+      "dir": 1
+    },
+    {
+      "word": "GRIN",
+      "isBonusWord": false,
+      "startRowIndex": 10,
+      "startColIndex": 7,
+      "dir": 0
+    },
+    {
+      "word": "LEG",
+      "isBonusWord": false,
+      "startRowIndex": 7,
+      "startColIndex": 3,
+      "dir": 1
+    },
+    {
+      "word": "GLEN",
+      "isBonusWord": false,
+      "startRowIndex": 7,
+      "startColIndex": 10,
+      "dir": 1
+    },
+    {
+      "word": "REIGN",
+      "isBonusWord": false,
+      "startRowIndex": 9,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "LINGER",
+      "isBonusWord": false,
+      "startRowIndex": 5,
+      "startColIndex": 1,
+      "dir": 1
+    },
+    {
+      "word": "GIRL",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 7,
+      "dir": 0
+    }
+  ]
+}

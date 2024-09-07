@@ -1,0 +1,32 @@
+{
+  "brilliancePoint": 10,
+  "numRow": 5,
+  "numCol": 4,
+  "letters": "FAIR",
+  "words": [
+    {
+      "word": "IRA",
+      "startRowIndex": 0,
+      "startColIndex": 1,
+      "dir": 1
+    },
+    {
+      "word": "AIR",
+      "startRowIndex": 0,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "FAIR",
+      "startRowIndex": 2,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "FAR",
+      "startRowIndex": 2,
+      "startColIndex": 0,
+      "dir": 1
+    }
+  ]
+}

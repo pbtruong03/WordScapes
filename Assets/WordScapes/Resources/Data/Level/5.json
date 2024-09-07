@@ -1,0 +1,32 @@
+{
+  "brilliancePoint": 10,
+  "numRow": 4,
+  "numCol": 6,
+  "letters": "RDPI",
+  "words": [
+    {
+      "word": "DRIP",
+      "startRowIndex": 1,
+      "startColIndex": 2,
+      "dir": 0
+    },
+    {
+      "word": "DIP",
+      "startRowIndex": 1,
+      "startColIndex": 2,
+      "dir": 1
+    },
+    {
+      "word": "RID",
+      "startRowIndex": 0,
+      "startColIndex": 4,
+      "dir": 1
+    },
+    {
+      "word": "RIP",
+      "startRowIndex": 3,
+      "startColIndex": 0,
+      "dir": 0
+    }
+  ]
+}

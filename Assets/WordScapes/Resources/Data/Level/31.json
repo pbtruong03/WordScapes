@@ -1,0 +1,85 @@
+{
+  "brilliancePoint": 33,
+  "numRow": 9,
+  "numCol": 9,
+  "letters": "OLLWSA",
+  "words": [
+    {
+      "word": "WAS",
+      "isBonusWord": false,
+      "startRowIndex": 1,
+      "startColIndex": 4,
+      "dir": 1
+    },
+    {
+      "word": "SAW",
+      "isBonusWord": false,
+      "startRowIndex": 1,
+      "startColIndex": 2,
+      "dir": 0
+    },
+    {
+      "word": "ALSO",
+      "isBonusWord": false,
+      "startRowIndex": 3,
+      "startColIndex": 2,
+      "dir": 0
+    },
+    {
+      "word": "ALLOW",
+      "isBonusWord": false,
+      "startRowIndex": 3,
+      "startColIndex": 2,
+      "dir": 1
+    },
+    {
+      "word": "SLOW",
+      "isBonusWord": false,
+      "startRowIndex": 6,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "OWL",
+      "isBonusWord": false,
+      "startRowIndex": 3,
+      "startColIndex": 5,
+      "dir": 1
+    },
+    {
+      "word": "ALLOWS",
+      "isBonusWord": false,
+      "startRowIndex": 1,
+      "startColIndex": 0,
+      "dir": 1
+    },
+    {
+      "word": "LAW",
+      "isBonusWord": false,
+      "startRowIndex": 5,
+      "startColIndex": 5,
+      "dir": 0
+    },
+    {
+      "word": "WALL",
+      "isBonusWord": false,
+      "startRowIndex": 5,
+      "startColIndex": 7,
+      "dir": 1
+    },
+    {
+      "word": "ALL",
+      "isBonusWord": false,
+      "startRowIndex": 7,
+      "startColIndex": 6,
+      "dir": 0
+    },
+    {
+      "word": "LOWS",
+      "isBonusWord": true,
+      "startRowIndex": 0,
+      "startColIndex": 7,
+      "dir": 1
+    }
+  ]
+}

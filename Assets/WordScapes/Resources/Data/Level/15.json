@@ -1,0 +1,44 @@
+{
+  "brilliancePoint": 15,
+  "numRow": 6,
+  "numCol": 5,
+  "letters": "DACNL",
+  "words": [
+    {
+      "word": "CLAN",
+      "startRowIndex": 0,
+      "startColIndex": 2,
+      "dir": 1
+    },
+    {
+      "word": "LAND",
+      "startRowIndex": 3,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "DAN",
+      "startRowIndex": 3,
+      "startColIndex": 3,
+      "dir": 1
+    },
+    {
+      "word": "CAN",
+      "startRowIndex": 0,
+      "startColIndex": 2,
+      "dir": 0
+    },
+    {
+      "word": "LAN",
+      "startRowIndex": 3,
+      "startColIndex": 0,
+      "dir": 1
+    },
+    {
+      "word": "AND",
+      "startRowIndex": 5,
+      "startColIndex": 2,
+      "dir": 0
+    }
+  ]
+}

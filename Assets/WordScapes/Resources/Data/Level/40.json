@@ -1,0 +1,99 @@
+{
+  "brilliancePoint": 39,
+  "numRow": 10,
+  "numCol": 10,
+  "letters": "YRABIN",
+  "words": [
+    {
+      "word": "BINARY",
+      "isBonusWord": false,
+      "startRowIndex": 2,
+      "startColIndex": 7,
+      "dir": 1
+    },
+    {
+      "word": "BAY",
+      "isBonusWord": false,
+      "startRowIndex": 7,
+      "startColIndex": 5,
+      "dir": 0
+    },
+    {
+      "word": "RIB",
+      "isBonusWord": false,
+      "startRowIndex": 2,
+      "startColIndex": 5,
+      "dir": 0
+    },
+    {
+      "word": "BARN",
+      "isBonusWord": false,
+      "startRowIndex": 5,
+      "startColIndex": 6,
+      "dir": 0
+    },
+    {
+      "word": "BRA",
+      "isBonusWord": false,
+      "startRowIndex": 7,
+      "startColIndex": 5,
+      "dir": 1
+    },
+    {
+      "word": "YARN",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 5,
+      "dir": 1
+    },
+    {
+      "word": "RAN",
+      "isBonusWord": false,
+      "startRowIndex": 3,
+      "startColIndex": 9,
+      "dir": 1
+    },
+    {
+      "word": "RAINY",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 1,
+      "dir": 0
+    },
+    {
+      "word": "BRAN",
+      "isBonusWord": false,
+      "startRowIndex": 9,
+      "startColIndex": 3,
+      "dir": 0
+    },
+    {
+      "word": "NAB",
+      "isBonusWord": false,
+      "startRowIndex": 7,
+      "startColIndex": 3,
+      "dir": 1
+    },
+    {
+      "word": "RAIN",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 1,
+      "dir": 1
+    },
+    {
+      "word": "ANY",
+      "isBonusWord": false,
+      "startRowIndex": 3,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "BRAIN",
+      "isBonusWord": true,
+      "startRowIndex": 5,
+      "startColIndex": 0,
+      "dir": 0
+    }
+  ]
+}

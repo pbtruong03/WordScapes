@@ -1,0 +1,50 @@
+{
+  "brilliancePoint": 19,
+  "numRow": 8,
+  "numCol": 8,
+  "letters": "PPAYL",
+  "words": [
+    {
+      "word": "APPY",
+      "startRowIndex": 4,
+      "startColIndex": 2,
+      "dir": 1
+    },
+    {
+      "word": "LAY",
+      "startRowIndex": 4,
+      "startColIndex": 1,
+      "dir": 0
+    },
+    {
+      "word": "APP",
+      "startRowIndex": 6,
+      "startColIndex": 1,
+      "dir": 0
+    },
+    {
+      "word": "PAL",
+      "startRowIndex": 2,
+      "startColIndex": 1,
+      "dir": 1
+    },
+    {
+      "word": "APPLY",
+      "startRowIndex": 2,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "PAY",
+      "startRowIndex": 0,
+      "startColIndex": 4,
+      "dir": 1
+    },
+    {
+      "word": "PLAY",
+      "startRowIndex": 0,
+      "startColIndex": 4,
+      "dir": 0
+    }
+  ]
+}

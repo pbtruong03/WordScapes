@@ -1,0 +1,50 @@
+{
+  "brilliancePoint": 19,
+  "numRow": 5,
+  "numCol": 7,
+  "letters": "ISTHG",
+  "words": [
+    {
+      "word": "ITS",
+      "startRowIndex": 2,
+      "startColIndex": 1,
+      "dir": 1
+    },
+    {
+      "word": "SIGHT",
+      "startRowIndex": 2,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "HIT",
+      "startRowIndex": 0,
+      "startColIndex": 4,
+      "dir": 1
+    },
+    {
+      "word": "SIGH",
+      "startRowIndex": 4,
+      "startColIndex": 1,
+      "dir": 0
+    },
+    {
+      "word": "HIS",
+      "startRowIndex": 0,
+      "startColIndex": 0,
+      "dir": 1
+    },
+    {
+      "word": "THIS",
+      "startRowIndex": 0,
+      "startColIndex": 3,
+      "dir": 0
+    },
+    {
+      "word": "SIT",
+      "startRowIndex": 0,
+      "startColIndex": 6,
+      "dir": 1
+    }
+  ]
+}

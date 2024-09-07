@@ -1,0 +1,57 @@
+{
+  "brilliancePoint": 26,
+  "numRow": 7,
+  "numCol": 9,
+  "letters": "DOIVED",
+  "words": [
+    {
+      "word": "VOIDED",
+      "isBonusWord": false,
+      "startRowIndex": 5,
+      "startColIndex": 3,
+      "dir": 0
+    },
+    {
+      "word": "DOVE",
+      "isBonusWord": false,
+      "startRowIndex": 3,
+      "startColIndex": 3,
+      "dir": 1
+    },
+    {
+      "word": "VIDEO",
+      "isBonusWord": false,
+      "startRowIndex": 2,
+      "startColIndex": 7,
+      "dir": 1
+    },
+    {
+      "word": "VOID",
+      "isBonusWord": false,
+      "startRowIndex": 3,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "DIVE",
+      "isBonusWord": false,
+      "startRowIndex": 2,
+      "startColIndex": 5,
+      "dir": 0
+    },
+    {
+      "word": "DEVOID",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 1,
+      "dir": 1
+    },
+    {
+      "word": "VIE",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 5,
+      "dir": 1
+    }
+  ]
+}

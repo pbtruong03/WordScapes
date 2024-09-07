@@ -1,0 +1,32 @@
+{
+  "brilliancePoint": 11,
+  "numRow": 4,
+  "numCol": 6,
+  "letters": "SAVE",
+  "words": [
+    {
+      "word": "AVE",
+      "startRowIndex": 1,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "SEA",
+      "startRowIndex": 0,
+      "startColIndex": 2,
+      "dir": 1
+    },
+    {
+      "word": "SAVE",
+      "startRowIndex": 0,
+      "startColIndex": 2,
+      "dir": 0
+    },
+    {
+      "word": "VASE",
+      "startRowIndex": 0,
+      "startColIndex": 0,
+      "dir": 1
+    }
+  ]
+}

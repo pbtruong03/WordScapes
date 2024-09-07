@@ -1,0 +1,64 @@
+{
+  "brilliancePoint": 27,
+  "numRow": 9,
+  "numCol": 9,
+  "letters": "USCRHO",
+  "words": [
+    {
+      "word": "OUR",
+      "isBonusWord": false,
+      "startRowIndex": 3,
+      "startColIndex": 1,
+      "dir": 0
+    },
+    {
+      "word": "OURS",
+      "isBonusWord": false,
+      "startRowIndex": 2,
+      "startColIndex": 2,
+      "dir": 1
+    },
+    {
+      "word": "RUSH",
+      "isBonusWord": false,
+      "startRowIndex": 5,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "HOUR",
+      "isBonusWord": false,
+      "startRowIndex": 5,
+      "startColIndex": 3,
+      "dir": 1
+    },
+    {
+      "word": "CRUSH",
+      "isBonusWord": false,
+      "startRowIndex": 7,
+      "startColIndex": 1,
+      "dir": 0
+    },
+    {
+      "word": "SUCH",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 5,
+      "dir": 1
+    },
+    {
+      "word": "SOUR",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 5,
+      "dir": 0
+    },
+    {
+      "word": "CHORUS",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 7,
+      "dir": 1
+    }
+  ]
+}

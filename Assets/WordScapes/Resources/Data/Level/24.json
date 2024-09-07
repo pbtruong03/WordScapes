@@ -1,0 +1,38 @@
+{
+  "brilliancePoint": 14,
+  "numRow": 5,
+  "numCol": 7,
+  "letters": "RBAOD",
+  "words": [
+    {
+      "word": "BARD",
+      "startRowIndex": 0,
+      "startColIndex": 4,
+      "dir": 1
+    },
+    {
+      "word": "BOARD",
+      "startRowIndex": 2,
+      "startColIndex": 1,
+      "dir": 0
+    },
+    {
+      "word": "BAD",
+      "startRowIndex": 0,
+      "startColIndex": 4,
+      "dir": 0
+    },
+    {
+      "word": "BRA",
+      "startRowIndex": 2,
+      "startColIndex": 1,
+      "dir": 1
+    },
+    {
+      "word": "BAR",
+      "startRowIndex": 4,
+      "startColIndex": 0,
+      "dir": 0
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "brilliancePoint": 15,
+  "numRow": 6,
+  "numCol": 6,
+  "letters": "BNAR",
+  "words": [
+    {
+      "word": "NAB",
+      "startRowIndex": 3,
+      "startColIndex": 2,
+      "dir": 0
+    },
+    {
+      "word": "BAR",
+      "startRowIndex": 3,
+      "startColIndex": 4,
+      "dir": 1
+    },
+    {
+      "word": "BRAN",
+      "startRowIndex": 0,
+      "startColIndex": 2,
+      "dir": 1
+    },
+    {
+      "word": "BRA",
+      "startRowIndex": 5,
+      "startColIndex": 3,
+      "dir": 0
+    },
+    {
+      "word": "BARN",
+      "startRowIndex": 1,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "BAN",
+      "startRowIndex": 1,
+      "startColIndex": 0,
+      "dir": 1
+    }
+  ]
+}

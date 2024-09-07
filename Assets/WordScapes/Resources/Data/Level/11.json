@@ -1,0 +1,50 @@
+{
+  "brilliancePoint": 17,
+  "numRow": 5,
+  "numCol": 8,
+  "letters": "BEAT",
+  "words": [
+    {
+      "word": "BET",
+      "startRowIndex": 2,
+      "startColIndex": 2,
+      "dir": 1
+    },
+    {
+      "word": "EAT",
+      "startRowIndex": 4,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "BETA",
+      "startRowIndex": 2,
+      "startColIndex": 2,
+      "dir": 0
+    },
+    {
+      "word": "BEAT",
+      "startRowIndex": 0,
+      "startColIndex": 5,
+      "dir": 1
+    },
+    {
+      "word": "TAB",
+      "startRowIndex": 0,
+      "startColIndex": 3,
+      "dir": 0
+    },
+    {
+      "word": "ATE",
+      "startRowIndex": 2,
+      "startColIndex": 0,
+      "dir": 1
+    },
+    {
+      "word": "TEA",
+      "startRowIndex": 3,
+      "startColIndex": 5,
+      "dir": 0
+    }
+  ]
+}

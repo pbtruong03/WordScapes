@@ -1,0 +1,64 @@
+{
+  "brilliancePoint": 25,
+  "numRow": 7,
+  "numCol": 8,
+  "letters": "STCOUC",
+  "words": [
+    {
+      "word": "COS",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 4,
+      "dir": 1
+    },
+    {
+      "word": "COST",
+      "isBonusWord": false,
+      "startRowIndex": 5,
+      "startColIndex": 3,
+      "dir": 0
+    },
+    {
+      "word": "SCOUT",
+      "isBonusWord": false,
+      "startRowIndex": 1,
+      "startColIndex": 6,
+      "dir": 1
+    },
+    {
+      "word": "STUCCO",
+      "isBonusWord": false,
+      "startRowIndex": 2,
+      "startColIndex": 2,
+      "dir": 0
+    },
+    {
+      "word": "OUST",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 2,
+      "dir": 1
+    },
+    {
+      "word": "CUT",
+      "isBonusWord": false,
+      "startRowIndex": 3,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "CUTS",
+      "isBonusWord": false,
+      "startRowIndex": 3,
+      "startColIndex": 0,
+      "dir": 1
+    },
+    {
+      "word": "OUT",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 2,
+      "dir": 0
+    }
+  ]
+}

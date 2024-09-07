@@ -1,0 +1,32 @@
+{
+  "brilliancePoint": 9,
+  "numRow": 3,
+  "numCol": 5,
+  "letters": "TONU",
+  "words": [
+    {
+      "word": "NOT",
+      "startRowIndex": 2,
+      "startColIndex": 2,
+      "dir": 0
+    },
+    {
+      "word": "NUT",
+      "startRowIndex": 0,
+      "startColIndex": 4,
+      "dir": 1
+    },
+    {
+      "word": "TON",
+      "startRowIndex": 0,
+      "startColIndex": 2,
+      "dir": 1
+    },
+    {
+      "word": "OUT",
+      "startRowIndex": 0,
+      "startColIndex": 0,
+      "dir": 0
+    }
+  ]
+}

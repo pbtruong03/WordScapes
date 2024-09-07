@@ -1,0 +1,50 @@
+{
+  "brilliancePoint": 17,
+  "numRow": 7,
+  "numCol": 7,
+  "letters": "VAGUE",
+  "words": [
+    {
+      "word": "AVE",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 1,
+      "dir": 0
+    },
+    {
+      "word": "VEG",
+      "isBonusWord": false,
+      "startRowIndex": 3,
+      "startColIndex": 3,
+      "dir": 1
+    },
+    {
+      "word": "AGE",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 1,
+      "dir": 1
+    },
+    {
+      "word": "VAGU",
+      "isBonusWord": false,
+      "startRowIndex": 3,
+      "startColIndex": 3,
+      "dir": 0
+    },
+    {
+      "word": "EAU",
+      "isBonusWord": false,
+      "startRowIndex": 1,
+      "startColIndex": 6,
+      "dir": 1
+    },
+    {
+      "word": "VAGUE",
+      "isBonusWord": true,
+      "startRowIndex": 0,
+      "startColIndex": 0,
+      "dir": 0
+    }
+  ]
+}

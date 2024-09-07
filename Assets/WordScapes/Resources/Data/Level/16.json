@@ -1,0 +1,44 @@
+{
+  "brilliancePoint": 16,
+  "numRow": 5,
+  "numCol": 7,
+  "letters": "LANDB",
+  "words": [
+    {
+      "word": "LAND",
+      "startRowIndex": 2,
+      "startColIndex": 3,
+      "dir": 0
+    },
+    {
+      "word": "AND",
+      "startRowIndex": 1,
+      "startColIndex": 5,
+      "dir": 1
+    },
+    {
+      "word": "BALD",
+      "startRowIndex": 0,
+      "startColIndex": 3,
+      "dir": 1
+    },
+    {
+      "word": "LAB",
+      "startRowIndex": 0,
+      "startColIndex": 1,
+      "dir": 0
+    },
+    {
+      "word": "BAND",
+      "startRowIndex": 3,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "BAN",
+      "startRowIndex": 2,
+      "startColIndex": 1,
+      "dir": 1
+    }
+  ]
+}

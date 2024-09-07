@@ -1,0 +1,92 @@
+{
+  "brilliancePoint": 38,
+  "numRow": 10,
+  "numCol": 10,
+  "letters": "ERNOCNC",
+  "words": [
+    {
+      "word": "NONE",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "NOR",
+      "isBonusWord": false,
+      "startRowIndex": 4,
+      "startColIndex": 0,
+      "dir": 1
+    },
+    {
+      "word": "ONE",
+      "isBonusWord": false,
+      "startRowIndex": 2,
+      "startColIndex": 3,
+      "dir": 1
+    },
+    {
+      "word": "CONCERN",
+      "isBonusWord": false,
+      "startRowIndex": 2,
+      "startColIndex": 2,
+      "dir": 0
+    },
+    {
+      "word": "RECON",
+      "isBonusWord": false,
+      "startRowIndex": 6,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "CORN",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 7,
+      "dir": 1
+    },
+    {
+      "word": "NEON",
+      "isBonusWord": false,
+      "startRowIndex": 6,
+      "startColIndex": 4,
+      "dir": 1
+    },
+    {
+      "word": "CONE",
+      "isBonusWord": false,
+      "startRowIndex": 8,
+      "startColIndex": 3,
+      "dir": 0
+    },
+    {
+      "word": "CON",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 7,
+      "dir": 0
+    },
+    {
+      "word": "CORE",
+      "isBonusWord": false,
+      "startRowIndex": 5,
+      "startColIndex": 6,
+      "dir": 1
+    },
+    {
+      "word": "ONCE",
+      "isBonusWord": false,
+      "startRowIndex": 0,
+      "startColIndex": 5,
+      "dir": 1
+    },
+    {
+      "word": "CROC",
+      "isBonusWord": false,
+      "startRowIndex": 5,
+      "startColIndex": 6,
+      "dir": 0
+    }
+  ]
+}

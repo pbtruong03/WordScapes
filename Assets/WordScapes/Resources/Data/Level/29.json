@@ -1,0 +1,50 @@
+{
+  "brilliancePoint": 22,
+  "numRow": 7,
+  "numCol": 8,
+  "letters": "NHVTEA",
+  "words": [
+    {
+      "word": "THEN",
+      "startRowIndex": 2,
+      "startColIndex": 6,
+      "dir": 1
+    },
+    {
+      "word": "TEA",
+      "startRowIndex": 4,
+      "startColIndex": 5,
+      "dir": 0
+    },
+    {
+      "word": "VENT",
+      "startRowIndex": 2,
+      "startColIndex": 3,
+      "dir": 0
+    },
+    {
+      "word": "NAVE",
+      "startRowIndex": 0,
+      "startColIndex": 3,
+      "dir": 1
+    },
+    {
+      "word": "VANE",
+      "startRowIndex": 3,
+      "startColIndex": 0,
+      "dir": 0
+    },
+    {
+      "word": "HAVEN",
+      "startRowIndex": 2,
+      "startColIndex": 1,
+      "dir": 1
+    },
+    {
+      "word": "HEAT",
+      "startRowIndex": 5,
+      "startColIndex": 0,
+      "dir": 0
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "brilliancePoint": 19,
+  "numRow": 7,
+  "numCol": 7,
+  "letters": "SALEC",
+  "words": [
+    {
+      "word": "CASE",
+      "startRowIndex": 2,
+      "startColIndex": 3,
+      "dir": 0
+    },
+    {
+      "word": "SCALE",
+      "startRowIndex": 0,
+      "startColIndex": 4,
+      "dir": 1
+    },
+    {
+      "word": "SEAL",
+      "startRowIndex": 1,
+      "startColIndex": 6,
+      "dir": 1
+    },
+    {
+      "word": "SALE",
+      "startRowIndex": 4,
+      "startColIndex": 1,
+      "dir": 0
+    },
+    {
+      "word": "SEA",
+      "startRowIndex": 4,
+      "startColIndex": 1,
+      "dir": 1
+    },
+    {
+      "word": "LACE",
+      "startRowIndex": 6,
+      "startColIndex": 0,
+      "dir": 0
+    }
+  ]
+}
